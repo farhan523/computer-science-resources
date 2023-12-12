@@ -17,7 +17,7 @@ When you are ready to contribute, follow these steps:
 5. Submit a pull request, and our team will review your submission as soon as possible.
 
 # Conclusion
-Thank you for considering contributing to this repository. With your help, we can make this the best resource for tech industry aspirants in Pakistan!
+Thank you for considering contributing to this repository. With your help, we can make this the best resource for tech industry aspirants.
 
 # Contact Us
 For any further queries or suggestions, feel free to reach us at farhanbajwa46@gmail.com
